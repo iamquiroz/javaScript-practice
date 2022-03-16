@@ -44,3 +44,4 @@ console.log(solution2(string4));
 // better solution for palindrome
 // how to implement testing
 
+
